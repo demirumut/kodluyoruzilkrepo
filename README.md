@@ -4,7 +4,7 @@ README dosyası, bir adet de index.html barındırıyor.
 ## Installation  
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)  
 ```
-git clone https://github.com/Ercanart/kodluyoruzilkrepo.git
+git clone https://github.com/demirumut/kodluyoruzilkrepo.git
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visul Studio Code programında açınız.  
